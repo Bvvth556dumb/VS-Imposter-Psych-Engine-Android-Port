@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Talk_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk0000" x="4" y="4" width="402" height="407" pivotX="-66.25" pivotY="-60.45"/>
+	<SubTexture name="Talk0001" x="4" y="4" width="402" height="407"/>
+	<SubTexture name="Talk LOOP0000" x="3684" y="4" width="404" height="421" pivotX="-65.05" pivotY="-46.6"/>
+	<SubTexture name="Talk LOOP0001" x="3684" y="4" width="404" height="421"/>
+	<SubTexture name="Talk LOOP0002" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Talk LOOP0003" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Talk LOOP0004" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Talk LOOP0005" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="TalkO0000" x="4" y="4" width="402" height="407"/>
+	<SubTexture name="TalkO0001" x="4" y="4" width="402" height="407"/>
+	<SubTexture name="TalkO0002" x="4" y="4" width="402" height="407"/>
+</TextureAtlas>
